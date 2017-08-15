@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2017-08-15
+  priceperunit: 1
+  units: 1
+  user: one
+  entry: one
+  place: one
+
+two:
+  date: 2017-08-15
+  priceperunit: 1
+  units: 1
+  user: two
+  entry: two
+  place: two
